@@ -196,7 +196,6 @@ When the client makes a `PUT` request to `/api/posts/:id`:
   - return the newly updated _post_.
 
 ## Stretch Problems
-
 To work on the stretch problems you'll need to enable the `cors` middleware. Follow these steps:
 
 - add the `cors` npm module: `npm i cors`.
